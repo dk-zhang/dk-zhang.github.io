@@ -23,7 +23,7 @@
 ```
 
 * 下载项目
-> 前提条件：注册 [GitHub](https://github.com) 账号后，且拥有项目 https://github.com/CardInfoLink/website 的读写权限
+> 前提条件：注册 [GitHub](https://github.com) 账号，且账号已有项目 https://github.com/CardInfoLink/website 的读写权限
 
   ```
       $ git clone https://github.com/CardInfoLink/website
